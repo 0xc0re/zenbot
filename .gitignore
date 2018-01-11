@@ -1,4 +1,5 @@
 .DS_Store
+._DS_Store
 *.tar.gz
 *.log.*
 t.js
@@ -23,6 +24,7 @@ backtesting_*
 generation_data_*
 models/*.json
 models/*.html
+models/good
 *.pyc
 *.swp
 temp.html
